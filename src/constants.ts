@@ -19,7 +19,7 @@ export enum SupportedChainId {
   BNB = 56,
 
   MOONBEAM = 1284,
-  MOONBASE_ALPHA = 1287,
+  MOONBASE_ALPHA = 1287
 }
 
 // exports for external consumption
